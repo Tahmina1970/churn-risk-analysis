@@ -1,0 +1,15 @@
+
+You are a business analyst.
+
+Based on this churn risk summary, provide:
+1. A short executive summary
+2. Three business insights
+3. Three recommended actions
+
+Data:
+- Total customers: 10127
+- High risk customers: 66 (0.65%)
+- Medium risk customers: 3483 (34.39%)
+- Low risk customers: 6578 (64.96%)
+
+Also consider that the dataset includes inactivity, contact frequency, and utilization behavior.

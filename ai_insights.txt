@@ -1,0 +1,13 @@
+
+Executive Summary:
+Customer churn risk is relatively low overall, with the majority of customers in the low-risk segment...
+
+Business Insights:
+1. Customer inactivity strongly correlates with churn risk.
+2. Medium-risk customers represent the largest opportunity segment.
+3. Utilization behavior indicates disengagement patterns.
+
+Recommended Actions:
+1. Launch re-engagement campaigns for medium-risk customers.
+2. Provide targeted incentives for high-risk customers.
+3. Improve customer interaction frequency.

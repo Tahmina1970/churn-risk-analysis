@@ -1,0 +1,67 @@
+clientnum,attrition_flag,customer_age,gender,dependent_count,education_level,marital_status,income_category,card_category,months_on_book,total_relationship_count,months_inactive_12_mon,contacts_count_12_mon,credit_limit,total_revolving_bal,avg_open_to_buy,total_amt_chng_q4_q1,total_trans_amt,total_trans_ct,total_ct_chng_q4_q1,avg_utilization_ratio,risk_level,churn_score
+783542133,Existing Customer,53,F,3,Graduate,Married,Less than $40K,Blue,47,5,6,2,2759.0,2223,536.0,1.32,2093,42,1.0,0.806,High,2.602918013773106
+714363858,Existing Customer,54,F,4,High School,Married,Less than $40K,Blue,36,3,5,3,1594.0,1411,183.0,0.817,1459,35,1.188,0.885,High,2.5425583437892096
+789337233,Existing Customer,63,M,1,Graduate,Married,$40K - $60K,Blue,53,6,6,2,2880.0,2362,518.0,0.89,1323,26,0.444,0.82,High,2.6100416666666666
+783020958,Existing Customer,39,M,3,,Married,$80K - $120K,Blue,33,6,6,4,18582.0,794,17788.0,0.717,1836,46,0.586,0.043,High,2.6214188569583463
+778734108,Existing Customer,36,M,3,Uneducated,Married,$60K - $80K,Blue,16,4,5,4,1686.0,1252,434.0,0.575,1758,42,1.1,0.743,High,2.671375800711744
+769579608,Existing Customer,53,F,1,Graduate,Single,Less than $40K,Blue,46,3,6,4,2240.0,1601,639.0,0.833,3795,70,0.75,0.715,High,2.9574196428571424
+771602883,Existing Customer,42,M,3,High School,Single,$80K - $120K,Blue,30,4,5,4,4147.0,1719,2428.0,0.875,1776,44,0.571,0.415,High,2.507354955389438
+756409758,Existing Customer,44,F,2,Graduate,Married,Less than $40K,Blue,37,4,5,4,3203.0,2076,1127.0,0.543,1433,38,1.0,0.648,High,2.624042709959413
+778882758,Existing Customer,55,F,2,,Married,abc,Blue,36,5,5,4,3602.0,2013,1589.0,0.839,1935,47,1.474,0.559,High,2.579456857301499
+719049033,Existing Customer,53,M,3,High School,Married,$120K +,Blue,44,5,6,4,14057.0,1655,12402.0,0.676,2073,60,0.333,0.118,High,2.6589204808991957
+720392433,Existing Customer,55,F,1,,Married,Less than $40K,Blue,36,6,6,2,2857.0,2517,340.0,0.871,1869,47,0.567,0.881,High,2.640498214910745
+808681158,Existing Customer,57,M,0,Graduate,Married,$80K - $120K,Blue,52,4,6,4,2564.0,2379,185.0,0.358,1343,35,0.296,0.928,High,3.063954134165366
+804840033,Existing Customer,45,M,2,College,Married,$60K - $80K,Blue,38,4,6,4,16611.0,0,16611.0,0.954,1960,48,0.6,0.0,High,2.5999999999999996
+795052083,Existing Customer,63,F,0,Uneducated,Single,$40K - $60K,Blue,56,3,6,4,1438.3,0,1438.3,0.864,3630,71,0.578,0.0,High,2.5999999999999996
+770647233,Existing Customer,35,F,2,High School,Married,Less than $40K,Blue,21,5,6,3,2157.0,1188,969.0,0.847,2111,59,0.639,0.551,High,2.675429485396384
+778973658,Existing Customer,55,M,0,Doctorate,Married,$60K - $80K,Blue,36,4,6,4,4980.0,906,4074.0,0.721,2273,66,0.886,0.182,High,2.690978313253012
+811111083,Existing Customer,56,M,2,High School,Married,$60K - $80K,Blue,51,5,6,3,2863.0,2517,346.0,0.583,1458,39,0.696,0.879,High,2.8395443241355225
+714514983,Existing Customer,43,F,5,Graduate,Married,Less than $40K,Blue,35,3,6,4,5438.0,2214,3224.0,0.668,5029,75,0.562,0.407,High,2.8035404928282452
+789963033,Attrited Customer,54,F,1,Graduate,Single,Less than $40K,Blue,45,3,5,5,1438.3,0,1438.3,0.647,1603,39,0.444,0.0,High,2.5
+771693933,Existing Customer,62,F,1,Graduate,Married,Less than $40K,Blue,50,6,6,4,2802.0,1977,825.0,0.431,1757,33,0.833,0.706,High,2.952870235546038
+716285358,Existing Customer,32,F,1,College,Divorced,Less than $40K,Blue,36,3,5,4,1835.0,1017,818.0,0.82,2801,79,0.519,0.554,High,2.577067029972752
+709413933,Attrited Customer,56,M,2,High School,Single,$40K - $60K,Blue,40,2,6,4,2381.0,651,1730.0,0.592,1920,46,0.586,0.273,High,2.7366243595128097
+824168808,Existing Customer,31,F,1,College,Divorced,abc,Blue,27,4,6,3,3647.0,1480,2167.0,0.76,2271,60,0.364,0.406,High,2.6029438990951466
+773503308,Existing Customer,59,M,1,Uneducated,Single,Less than $40K,Blue,53,5,5,4,2192.0,1569,623.0,0.706,4010,79,0.717,0.716,High,2.657935401459854
+713110908,Existing Customer,30,M,1,,Married,Less than $40K,Blue,13,3,6,5,2607.0,1966,641.0,0.65,1719,45,0.607,0.754,High,3.177037054085155
+709381383,Existing Customer,49,M,4,Graduate,Married,$60K - $80K,Blue,36,4,6,2,2952.0,2517,435.0,0.809,3830,77,0.51,0.853,High,2.626392682926829
+817977933,Attrited Customer,63,F,0,Graduate,Single,Less than $40K,Blue,56,5,6,3,1931.0,1531,400.0,0.778,2288,48,0.714,0.793,High,2.796456033143449
+780056733,Existing Customer,36,M,3,,Single,$40K - $60K,Blue,22,3,6,3,8436.0,2517,5919.0,0.807,2627,63,1.032,0.298,High,2.5491092460881934
+821768658,Attrited Customer,52,M,0,,Single,$120K +,Blue,48,4,5,5,13114.0,2247,10867.0,1.003,2474,51,0.417,0.171,High,2.5856030806771386
+815085708,Attrited Customer,60,F,0,High School,Single,$40K - $60K,Blue,55,1,5,5,10882.0,2517,8365.0,0.266,1861,46,0.278,0.231,High,2.6155898180481527
+772148058,Existing Customer,45,M,3,Graduate,,$80K - $120K,Blue,34,6,6,3,2210.0,759,1451.0,0.892,2755,53,0.559,0.343,High,2.571631674208145
+811554708,Existing Customer,44,F,3,High School,Married,abc,Blue,38,4,6,4,26516.0,1434,25082.0,0.472,3609,76,0.551,0.054,High,2.627024166540956
+816261858,Attrited Customer,61,M,0,Graduate,Single,$40K - $60K,Blue,56,2,5,4,3984.0,2245,1739.0,0.612,1821,39,0.696,0.564,High,2.581851204819277
+772051308,Existing Customer,55,F,3,Graduate,Single,abc,Blue,44,6,6,3,2553.0,1823,730.0,0.574,3853,69,0.683,0.714,High,2.757018566392479
+818322033,Existing Customer,41,F,3,Graduate,Married,Less than $40K,Blue,36,6,6,4,2873.0,1247,1626.0,0.889,3943,80,0.702,0.434,High,2.8170123216150365
+713933658,Existing Customer,56,F,0,Graduate,Single,Less than $40K,Blue,45,3,6,2,2463.0,1621,842.0,0.568,4118,70,0.591,0.658,High,2.5290421437271617
+714678408,Existing Customer,48,F,4,Post-Graduate,Married,Less than $40K,Blue,31,6,6,4,2646.0,1983,663.0,0.7,4727,83,0.804,0.749,High,2.974629931972789
+766946058,Existing Customer,51,F,2,,,$40K - $60K,Blue,44,4,6,4,5489.0,1665,3824.0,0.742,4010,75,0.786,0.303,High,2.7516001821825467
+713641233,Existing Customer,44,F,3,High School,Single,abc,Blue,31,5,6,4,10262.0,1888,8374.0,0.508,3553,65,0.757,0.184,High,2.6919939193139735
+804829533,Attrited Customer,59,M,0,High School,Single,$60K - $80K,Blue,54,3,6,6,24621.0,471,24150.0,0.85,2864,51,0.759,0.019,High,3.0095390032898743
+807587433,Attrited Customer,56,F,2,Doctorate,Married,Less than $40K,Blue,51,4,6,5,1438.3,0,1438.3,0.699,2229,40,0.6,0.0,High,2.8
+720436008,Existing Customer,54,F,1,Doctorate,,Less than $40K,Blue,43,4,6,4,5267.0,0,5267.0,0.631,4196,81,0.588,0.0,High,2.5999999999999996
+771502383,Existing Customer,54,F,1,High School,Married,Less than $40K,Blue,42,3,5,4,2474.0,1539,935.0,0.649,4884,80,0.509,0.622,High,2.6110208569118836
+709546608,Existing Customer,37,F,2,Uneducated,Married,Less than $40K,Blue,36,6,5,4,1438.3,647,791.3,0.889,4803,64,0.684,0.45,High,2.5249509838003195
+802247658,Attrited Customer,59,M,2,Uneducated,Single,$40K - $60K,Blue,53,4,5,4,2699.0,2422,277.0,0.773,2599,43,0.433,0.897,High,2.7486108188217857
+806219808,Existing Customer,52,M,3,College,,$120K +,Blue,47,5,6,3,5119.0,1972,3147.0,0.835,5146,88,0.956,0.385,High,2.592569447157648
+708390633,Existing Customer,52,F,3,Graduate,Married,Less than $40K,Blue,44,5,5,3,2421.0,2312,109.0,0.674,4219,69,0.605,0.955,High,2.5774931846344487
+817029108,Existing Customer,47,F,4,Post-Graduate,Single,$40K - $60K,Blue,27,4,6,3,6885.0,1611,5274.0,0.955,3804,67,0.861,0.234,High,2.5169960784313727
+792795933,Existing Customer,39,F,1,Graduate,Single,Less than $40K,Blue,30,5,6,2,2669.0,2397,272.0,0.807,3847,65,0.585,0.898,High,2.6490267515923565
+721505358,Existing Customer,41,F,3,,Married,Less than $40K,Blue,34,3,6,2,2679.0,2214,465.0,1.036,4682,81,0.841,0.826,High,2.613128331466965
+714243408,Existing Customer,46,F,2,Graduate,Single,abc,Blue,36,4,6,2,2042.0,1359,683.0,0.796,4917,73,0.973,0.666,High,2.5328571988246815
+709649958,Attrited Customer,62,M,0,Post-Graduate,Divorced,$60K - $80K,Silver,46,4,5,6,28229.0,287,27942.0,0.594,2281,45,0.552,0.01,High,2.705050054908073
+708498033,Attrited Customer,44,F,3,,Married,Less than $40K,Blue,36,3,4,6,2279.0,1837,442.0,0.853,2789,52,0.677,0.806,High,2.8030165862220278
+771497283,Existing Customer,40,F,2,High School,Divorced,Less than $40K,Blue,28,4,6,3,2917.0,1310,1607.0,0.757,4736,79,0.795,0.449,High,2.6245274597188892
+713355708,Existing Customer,41,F,3,High School,Married,abc,Blue,31,4,6,3,4739.0,1878,2861.0,0.719,5238,84,0.826,0.396,High,2.5980858408947034
+719592483,Existing Customer,43,F,5,Graduate,Single,abc,Blue,34,6,6,3,4607.0,2440,2167.0,0.646,4825,77,0.878,0.53,High,2.6648886477100064
+712378983,Attrited Customer,54,M,1,,Single,$80K - $120K,Blue,47,5,6,5,7570.0,965,6605.0,0.709,2599,61,0.848,0.127,High,2.8636430647291937
+712144158,Attrited Customer,53,F,1,Graduate,Single,Less than $40K,Blue,48,6,6,3,2370.0,1166,1204.0,0.562,2164,45,0.607,0.492,High,2.6459949367088607
+715522233,Existing Customer,45,F,3,Doctorate,Single,Less than $40K,Blue,27,1,6,3,2917.0,1523,1394.0,0.724,4878,92,0.804,0.522,High,2.661033527596846
+712524858,Existing Customer,34,M,1,Graduate,Single,Less than $40K,Blue,28,1,6,3,2669.0,1649,1020.0,0.63,4314,74,0.609,0.618,High,2.7089503184713375
+788290383,Existing Customer,43,M,3,Doctorate,Single,$40K - $60K,Blue,35,2,6,3,4970.0,1588,3382.0,0.669,4436,83,0.804,0.32,High,2.559855130784708
+709824633,Existing Customer,44,F,4,High School,Single,Less than $40K,Blue,35,2,5,3,1552.0,1375,177.0,0.995,5064,80,0.905,0.886,High,2.542986082474227
+715575258,Existing Customer,47,M,2,Graduate,Single,$40K - $60K,Blue,35,1,6,3,5791.0,1957,3834.0,0.654,7823,93,0.722,0.338,High,2.568981453980314
+815840283,Existing Customer,51,F,2,,Married,Less than $40K,Blue,46,1,6,3,7744.0,1893,5851.0,0.813,16059,124,0.722,0.244,High,2.522134194214876
+790131033,Existing Customer,38,F,1,High School,Married,Less than $40K,Blue,31,2,6,3,3416.0,2517,899.0,0.925,14230,105,0.78,0.737,High,2.7684480093676815
+779140533,Existing Customer,49,M,2,Doctorate,Married,$120K +,Blue,34,3,6,4,27124.0,2311,24813.0,0.73,15195,121,0.729,0.085,High,2.6425603893231084
